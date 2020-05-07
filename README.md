@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/jmaupoux/bootstrap-kata-fizzbuzz.svg?branch=master)](https://travis-ci.com/jmaupoux/bootstrap-kata-fizzbuzz)
+[![Build Status](https://travis-ci.com/jmaupoux/bootstrap-kata-fizzbuzz.svg?branch=java)](https://travis-ci.com/jmaupoux/bootstrap-kata-fizzbuzz)
 
 # FizzBuzz
 
